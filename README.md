@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShravanSreedeep
-- 👀 I’m interested in programming with java and python
+- 👀 I’m interested in programming with C, C++, Java and Python
 - 🌱 I’m currently learning data structure and algorithm, deep learning and computer vision
 - 📫 How to reach me shravansreedeep2000@gmail.com
 
