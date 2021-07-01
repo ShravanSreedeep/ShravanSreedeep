@@ -50,7 +50,7 @@
 
 <p align="center">
 <a href="https://shravansreedeep.github.io/Personal-Website//"><img alt="Website" src="https://img.shields.io/badge/Website-www.shravansreedeep.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/shravansreedeep/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shravan%20Sreedeep%-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/shravansreedeep/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shravan%20Sreedeep-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/shravansreedeep/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Shravan%20Sreedeep-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:shravansreedeep2000@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shravansreedeep2000@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
