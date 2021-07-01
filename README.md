@@ -38,7 +38,7 @@
   
 
 <br/>
-[![Shravan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShravanSreedeep)](https://github.com/anuraghazra/github-readme-stats)
+![Shravan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShravanSreedeep)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/ShravanSreedeep">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShravanSreedeep" />
