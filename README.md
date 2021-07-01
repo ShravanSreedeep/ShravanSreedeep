@@ -40,7 +40,7 @@
 <br/>
 <a href="https://github.com/ShravanSreedeep">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShravanSreedeep&theme=dark&show_icons=true)"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShravanSreedeep&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShravanSreedeep&theme=dracula&layout=compact" />
 </a>
 
 <br/>
