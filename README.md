@@ -1,4 +1,4 @@
-<img src="https://github.com/ShravanSreedeep/ShravanSreedeep/blob/main/1_profilepic_circular.png">
+<img src="https://github.com/ShravanSreedeep/ShravanSreedeep/blob/main/Untitled.png">
 
 <h2> Hey there! I'm Shravan Sreedeep.</h2>
 
