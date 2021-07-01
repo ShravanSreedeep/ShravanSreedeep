@@ -38,10 +38,10 @@
   
 
 <br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShravanSreedeep)](https://github.com/anuraghazra/github-readme-stats)
+[![Shravan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShravanSreedeep)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/ShravanSreedeep">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShravanSreedeep&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShravanSreedeep" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShravanSreedeep&theme=buefy&layout=compact" />
 </a>
 
