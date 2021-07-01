@@ -40,7 +40,7 @@
 <br/>
 <a href="https://github.com/ShravanSreedeep">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShravanSreedeep&theme=great-gatsby&show_icons=true)"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShravanSreedeep&theme=great-gatsby&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShravanSreedeep&theme=great-gatsby" />
 </a>
 
 <br/>
