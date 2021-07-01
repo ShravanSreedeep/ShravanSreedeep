@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="https://raw.githubusercontent.com/ShravanSreedeep/ShravanSreedeep/master/assets/1_profilepic_circular.png">
 
 <h2> Hey there! I'm Shravan Sreedeep.</h2>
 
