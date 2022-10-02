@@ -4,10 +4,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Electrical and Electronics Engineering at Government Engineering College of Kannur.
-- 💼 &nbsp; Working as college student placement coordinator.
+- 🎓 &nbsp; Graduate in Electrical and Electronics Engineering from Government College of Engineering Kannur.
+- 💼 &nbsp; Working as Graduate Engineer Trainee at Continental Automotives.
 - 🌱 &nbsp; Learning more about Automation, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Video Editing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
